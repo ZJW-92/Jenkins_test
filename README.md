@@ -8,5 +8,4 @@
 - Install Jenkins controller and agent 
 
 ### Run Jenkins on Docker 
-- Download Docker and build the Jenkins docker image 
-`docker build -t myjenkins-blueocean:2.332.3-1 .` 
+ 
